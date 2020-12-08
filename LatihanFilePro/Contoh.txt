@@ -1,0 +1,13 @@
+Nama#10000#8000
+Andi C#20000#1000
+basuki#1000#500
+wito#500#100
+Ini TambahanNama 10000 8000
+
+Andi C 20000 1000
+
+basuki 1000 500
+
+wito 500 100
+
+Ini Tambahan 0 0

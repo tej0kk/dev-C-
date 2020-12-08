@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+
+int cake, friends;
+scanf("%d %d", &cake, &friends);
+
+printf("%d %d\n", cake)
+
+return 0;
+}

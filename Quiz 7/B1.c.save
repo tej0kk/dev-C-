@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main(){
+
+    int cases, number;
+    scanf("%d", &cases);
+    for(int i=0; i<cases; i++){
+        scanf("%d", &number);
+        int arr[number];
+        int nyawa[number];
+        int count= 0;
+        int max = 0;
+        for(int j=1; j<=number; j++){
+            scanf("%d", &arr[j]);
+//            if(nyawa + arr[j] <= 0){
+//                nyawa += arr[j];
+//                if(max > nyawa) max = nyawa;
+////                count++;
+//                printf("%d.%d\n",j, max);
+//            }
+        }
+        for(int k=1; k<=number; k++){
+            count+=arr[k];
+            nyawa[k]= count;
+            if(max > nyawa[k]) max = nyawa[k];
+        }
+        printf("Case #%d: \n", max*-1+1);
+//        printf("Case #%d: %d\n", i+1, max*-1+1);
+//        if(count == 0) printf("Case #%d: %d\n", i+1, count+1);
+//        printf("Case #%d: %d\n", i+1, count);
+
+    }
+
+return 0;
+}

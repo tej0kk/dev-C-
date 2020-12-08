@@ -1,0 +1,10 @@
+No Name				Height		Weight
+1  Alzriet Gentleheart 		21.63     	Normal weight
+2  Cedyrug Redeemer  		27.92     	Overweight
+3  Chelby Adorable   		46.02     	Obese
+4  Chulrerth Warm    		42.53     	Obese
+5  Fremranth Dark    		28.98     	Overweight
+6  Gravys Powerful   		18.22     	Underweight
+7  Myrderram Mammoth 		15.78     	Underweight
+8  Zemusde Voiceless 		23.81     	Normal weight
+9  y                 		120.00     	Obese
